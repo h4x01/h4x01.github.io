@@ -1,0 +1,19 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Articles"
+    url: /articles
+  - title: "CTF's"
+    sublinks:
+      - title: Hack The Box
+        url:  /hackthebox
+      - title: Try Hack Me
+        url:  /tryhackme
+  - title: "Categories and Tvgs"
+    url: /categories_tags
+  - title: "Projects"
+    url: /projects
+  - title: "My Hacking Notes"
+    url: /.hacking-notes
+  - title: "Whoami"
+    url: /whoami
