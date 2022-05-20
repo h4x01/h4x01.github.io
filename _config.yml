@@ -3,14 +3,14 @@ remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
 minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Shockz | Cybersecurity, CTF's/Pentesting and Ethical Hacking"
+locale                   : "es-PE"
+title                    : "Hax | Cybersecurity, Pentesting and Ethical Hacking"
 title_separator          : "|"
-name                     : "Shockz | Posts about Cybersecurity, CTF's and Ethical Hacking"
+name                     : "Hax | Posts about Cybersecurity, CTF's and Ethical Hacking"
 description              : "Posts about Cybersecurity, Pentesting/CTF's, Ethical Hacking and other projects"
-url                      : "https://jmlgomez73.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://h4x01.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
-repository               : "jmlgomez73/jmlgomez73.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "h4x01/h4x01.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : 
 teaser                   : "/assets/images/avatar_black.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -93,7 +93,7 @@ author:
   avatar           : "/assets/images/avatar.png"
   bio              : "Vulnerability Analyst & Developer | Ethical Hacker | Software Engineer | HTB & THM Player"
   location         : "Ourense, Spain"
-  email            : "jmlgomez73@gmail.com"
+  email            : "haxdev01@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "jmlgomez73"
+  github           : "h4x01"
   gitlab           :
   google_plus      :
   keybase          : 
@@ -114,7 +114,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "ShockzPY"
+  twitter          : "Test"
   vine             :
   weibo            :
   xing             : 
