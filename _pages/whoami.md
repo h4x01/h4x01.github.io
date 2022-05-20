@@ -5,7 +5,7 @@ date: 2021-09-19
 layout: whoami
 ---
 
-## Shockz.json
+## Hax.json
 
 ```json
 {
@@ -63,7 +63,7 @@ layout: whoami
 * Hack The Box
     <div class="doubleimg">
         <a href="https://app.hackthebox.eu/profile/616242">
-            <img src="https://www.hackthebox.eu/badge/image/616242" alt="HackTheBox Shockz Profile">
+            <img src="https://www.hackthebox.eu/badge/image/616242" alt="HackTheBox Hax Profile">
         </a>
     </div>
 
